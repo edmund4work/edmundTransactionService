@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vanaCUAuR7pyUtVaYv4h6d8bYrcfFEcjBFj9fI7Wm7+YiDJAVLAyiY+MEjtOC4DRkQuHpxAJue78BHKXLm9OvQ==",
+  "dgSpecHash": "W8Yk0XnlZcIXNiV+Yxqd2cPzTpZNoNyIu0xhc/rZEKC2Wc1o64s4XTIFhit4nA+YIIWM6KfAZ0+r+TW5gTKQng==",
   "success": true,
   "projectFilePath": "/Volumes/planB/Github/edmundTransactionService/edmundTransactionService.csproj",
   "expectedPackageFiles": [
+    "/Users/sernhao/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512",
     "/Users/sernhao/.nuget/packages/microsoft.aspnetcore.openapi/7.0.8/microsoft.aspnetcore.openapi.7.0.8.nupkg.sha512",
     "/Users/sernhao/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/sernhao/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
