@@ -1,5 +1,3 @@
-# edmundTransactionService
-
 Summary of the project:
 --------------------------------------------
 1) Descripton
@@ -28,3 +26,7 @@ The Database connected with:
 --------------------------------------------
 1) MySQL
 
+
+URL Start with:
+--------------------------------------------
+https://localhost:7128;http://localhost:5296
